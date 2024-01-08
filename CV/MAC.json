@@ -1,0 +1,261 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Hodei",
+      "surnames": "Navarro",
+      "title": "Software developer.",
+      "description": "Desarrollador de software Python.\n\nSuelo estar muy al día de los desarrollos de los frameworks web React más actuales, así como las nuevas tecnologías y cambios posibles.\n\nA día de hoy compagino el trabajo con el estudio de Amazon Web Services, teniendo cierta curiosidad por el role de Data Engineer y/o Data Analyst.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/08/ec082daa-f625-4316-a8bb-151933ee490b_linkedin-photo-45263.linkedin-photo-45263",
+        "alt": "24/01/08/ec082daa-f625-4316-a8bb-151933ee490b_linkedin-photo-45263.linkedin-photo-45263"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJAUh1anVZTg0R6IpJljU3Egc)",
+        "country": "España",
+        "region": "País Vasco",
+        "municipality": "Santurce"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/hodeinavarro"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Kernet",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/08/3cae7445-286d-4800-a6ee-d02500d2de0d_linkedin-photo-45263.linkedin-photo-45263",
+            "alt": "24/01/08/3cae7445-286d-4800-a6ee-d02500d2de0d_linkedin-photo-45263.linkedin-photo-45263"
+          }
+        },
+        "roles": [
+          {
+            "name": "Odoo ERP Developer",
+            "startDate": "2024-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ACK Software para la transformación digital, s.l",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/08/1801e881-2831-4545-8646-59ebcdc7bf01_linkedin-photo-45263.linkedin-photo-45263",
+            "alt": "24/01/08/1801e881-2831-4545-8646-59ebcdc7bf01_linkedin-photo-45263.linkedin-photo-45263"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack / Tryton ERP - Developer",
+            "startDate": "2020-09-01",
+            "finishDate": "2023-08-31",
+            "challenges": [
+              {
+                "description": "● Desarrollo de código Python backend y Flask/Javascript/React en el frontend, para la digitalización de empresas PYMES con el ERP Tryton. Entre los desarrollos, un módulo que integra Tryton con TicketBAI de las 3 haciendas forales vascas y una aplicación TPV también integrada con TicketBAI y Tryton.\n\n● Control de la calidad del código mediante pruebas unitarias con unittest y pytest, con la ayuda de metodología AGILE y GitLab CI/CD.\n\n● Migración de datos desde fuentes diferentes, estructurados, texto plano y otros sistemas ERP.\n\n● Soporte técnico y funcional al cliente mediante vía telemática y telefónica.\n\n● Onboarding de nuevos compañeros y formación de los mismos, así como gestión de proyectos y planificación de los mismos para el equipo técnico. También analicé los requisitos técnicos previos a la planificación, para la mejor adaptación al cliente.\n\n● Refactorización de código y optimización de bases de datos y CI/CD.\n\n● Contribución de código, ideas y corrección de errores a la herramienta Open Source en uso, Tryton ERP."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/hodeinavarro",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "hodei.navarro@outlook.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Flask",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "C",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "C++",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Flask",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal me permitiría conciliar mi vida personal con mi vida profesional. Me gusta tener proyectos que me motiven a seguir aprendiendo y contribuyendo de forma libre, sin una clara restricción de oficina.\n\nMi día en el trabajo ideal sería consultar una herramienta de gestión donde pueda ver los problemas o hitos a completar y de forma independiente ir solucionándolos, con la comunicación necesaria entre equipos o con la ayuda de otros desarrolladores.\n\nActualmente me veo más como un desarrollador únicamente, pero en el futuro estoy interesado en gestionar un equipo de desarrolladores mientras yo también participo en el propio desarrollo."
+  }
+}
