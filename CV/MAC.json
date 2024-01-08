@@ -79,6 +79,11 @@
         "name": "ES",
         "fullName": "Español",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EU",
+        "fullName": "Euskera",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
