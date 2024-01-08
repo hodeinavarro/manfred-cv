@@ -249,6 +249,10 @@
         "type": "technology"
       },
       {
+        "name": "Nginx",
+        "type": "technology"
+      },
+      {
         "name": "PostgreSQL",
         "type": "technology"
       },
