@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/hodeinavarro"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/hodeinavarro"
       }
     ]
   },
@@ -179,6 +183,10 @@
         {
           "URL": "https://linkedin.com/in/hodeinavarro",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/hodeinavarro",
+          "type": "github"
         }
       ],
       "contactMails": [
